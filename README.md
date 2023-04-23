@@ -14,7 +14,6 @@ Bu uygulama, Python programlama dili kullanılarak yazılmış bir resim çizme 
 - Farklı renkler seçebilme
 - Çizilen resmi kaydedebilme
 - Çizim alanını temizleyebilme
-![painting](https://user-images.githubusercontent.com/131346373/233839270-a3ae9311-ba64-42bb-8ba9-e2c0f88b426e.png)
 
 ### Gereksinimler
 
@@ -39,3 +38,5 @@ Bu uygulama, Python programlama dili kullanılarak yazılmış bir resim çizme 
 - [3D Cube Web App](https://codepen.io/RealityMoez/full/qBMgaXg)
 - [Simple Web Page](https://codepen.io/RealityMoez/full/ExeMWzO)
 - [Python Paint Uygulaması](https://github.com/example/paint-app)
+
+![painting](https://user-images.githubusercontent.com/131346373/233839270-a3ae9311-ba64-42bb-8ba9-e2c0f88b426e.png)
